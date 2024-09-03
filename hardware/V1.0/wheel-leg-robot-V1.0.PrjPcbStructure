@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=Sheet1-MCU.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Sheet1-MCU.SchDoc|FileName=Sheet2-control.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Sheet1-MCU.SchDoc|FileName=Sheet3-USB.SchDoc|SheetNumber=3
