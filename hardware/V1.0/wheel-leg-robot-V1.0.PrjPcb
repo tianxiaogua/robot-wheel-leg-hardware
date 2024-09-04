@@ -224,7 +224,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HNBYXMRC
 
 [Document12]
 DocumentPath=..\..\..\..\adlib\PB-Chip.SCHLIB
@@ -241,7 +241,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OTCSTVQT
 
 [Document13]
 DocumentPath=..\..\..\..\adlib\power-chip.PcbLib
